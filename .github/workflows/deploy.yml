@@ -30,6 +30,9 @@ jobs:
     if: github.repository == 'PJECZ/pjecz-andromeda-astro'
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: "read"
+      id-token: "write"
     steps:
       - name: Authenticate
         uses: "google-github-actions/auth@v1"
