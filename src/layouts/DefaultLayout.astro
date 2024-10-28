@@ -1,0 +1,42 @@
+---
+import '@astrojs/tailwind/base.css'
+import '../assets/scss/globals.scss'
+import SiteMeta from '../components/SiteMeta.astro'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import GlobalStyles from '../components/GlobalStyles.astro'
+
+const {
+  title = 'PJECZ Justicia Digital',
+  description = 'Plataformas de información del Poder Judicial del Estado de Coahuila de Zaragoza.',
+  url,
+  image = '/social-preview-image.png',
+  author = 'PJECZ Dirección de Informática',
+} = Astro.props
+---
+
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <GlobalStyles />
+    <SiteMeta
+      title={title}
+      description={description.substring(0, 100)}
+      url={Astro.site
+        ? `${Astro.site}/${title.toLowerCase().replaceAll(' ', '-')}`
+        : `https://accessible-astro.dev/${title.toLowerCase().replaceAll(' ', '-')}`}
+      image={image}
+      author={author}
+    />
+  </head>
+  <body>
+    <Header />
+    <main id="main-content" transition:animate="fade">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>
