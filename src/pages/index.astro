@@ -1,0 +1,41 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro'
+import Hero from '../components/Hero.astro'
+import Feature from '../components/Feature.astro'
+---
+
+<DefaultLayout title="PJECZ Justicia Digital">
+  <Hero />
+  <section class="my-12">
+    <div class="container">
+      <h2 class="mb-16 text-6xl">Plataformas</h2>
+      <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
+        <Feature icon="mdi:folder" title="Plataforma Web">
+          <p>
+            Descargar recibos de nómina, crear tickets de soporte técnico
+            y administrar la documentación pública.
+            Debe contar con una cuenta institucional
+            coahuila.gob.mx o pjecz.gob.mx.
+          </p>
+          <a class="button m-2" href="https://plataforma-web.justiciadigital.gob.mx/" target="_blank">Ir a Plataforma Web</a>
+          <a class="button m-2" href="/plataforma-web">Manuales de Plataforma Web</a>
+        </Feature>
+        <Feature icon="mdi:folder" title="Sistema de Citas">
+          <p>
+            Agendar citas en las oficinas y juzgados del Poder Judicial del Estado de Coahuila de Zaragoza.
+            Debe contar con una dirección de correo electrónico.
+          </p>
+          <a class="button m-2" href="https://citas.justiciadigital.gob.mx/" target="_blank">Ir al Sistema de Citas</a>
+        </Feature>
+        <Feature icon="mdi:folder" title="Trámites y Servicios">
+          <p>
+            En este portal, integrado al sitio web,
+            puede elegir el trámite o servicio que desea realizar, obtener información detallada y
+            realizar el pago del mismo por banca electrónica.
+          </p>
+          <a class="button m-2" href="https://www.pjecz.gob.mx/tramites-y-servicios/" target="_blank">Ir a Trámites y Servicios</a>
+        </Feature>
+      </div>
+    </div>
+  </section>
+</DefaultLayout>
