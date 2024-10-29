@@ -10,7 +10,7 @@ const {
   title = 'PJECZ Justicia Digital',
   description = 'Plataformas de información del Poder Judicial del Estado de Coahuila de Zaragoza.',
   url,
-  image = '/social-preview-image.png',
+  image = '/generic.jpg',
   author = 'PJECZ Dirección de Informática',
 } = Astro.props
 ---
@@ -25,9 +25,7 @@ const {
     <SiteMeta
       title={title}
       description={description.substring(0, 100)}
-      url={Astro.site
-        ? `${Astro.site}/${title.toLowerCase().replaceAll(' ', '-')}`
-        : `https://accessible-astro.dev/${title.toLowerCase().replaceAll(' ', '-')}`}
+      url={Astro.site}
       image={image}
       author={author}
     />
