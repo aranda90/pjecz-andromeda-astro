@@ -8,6 +8,7 @@ title: Creación, Edición y Cancelación de Tickets
 ## Índice
 
   - [Consultar mis tickets](#consultar-mis-tickets)
+  - [Ingresar al detalle de un ticket](#ingresar-detalle-ticket)
   - [Crear un nuevo ticket](#crear-un-nuevo-ticket)
   - [Cancelar un ticket](#cancelar-un-ticket)
   - [Adjuntar un archivo](#adjuntar-un-archivo)
@@ -32,6 +33,8 @@ Aquí vera listado todos los tickets que ha creado, y podrá ver el estado en el
   - __TRABAJANDO__: Cuando el técnico está trabajando en darle solución a dicho ticket.
 
 Si ya tiene muchos tickets en su listado, puede hacer uso de los filtros de búsqueda, y acortar la lista de ticket.
+
+## <a name="ingresar-detalle-ticket"></a>Ingresar al detalle de un ticket
 
 Para ingresar al detalle de un ticket, presione sobre el campo de _ID_ del ticket que desea consultar del listado de tickets.
 
@@ -80,7 +83,7 @@ Finalmente presione el __botón de Solicitar soporte__ para enviar el ticket al 
 
 ## <a name="cancelar-un-ticket"></a>Cancelar un ticket
 
-Ingrese al detalle de un ticket, que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha de su pantalla el __botón de Cancelar__.
+[Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha de su pantalla el __botón de Cancelar__.
 
 ![botón cancelar tickets](../../../assets/img/plataforma-web/soportes_tickets/boton-cancelar.png)
 
@@ -88,7 +91,7 @@ Así si ya se corrigió el problema o ya no presentó problemas, puede cancelar 
 
 ## <a name="adjuntar-un-archivo"></a>Ajuntar un archivo
 
-Ingrese al detalle de un ticket, que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte inferior izquierda el apartado de 'Archivos Adjuntos' y un el __botón de Adjuntar_Archivo__.
+[Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte inferior izquierda el apartado de 'Archivos Adjuntos' y un el __botón de Adjuntar_Archivo__.
 
 ![botón adjuntar archivo](../../../assets/img/plataforma-web/soportes_tickets/boton-adjuntar-archivo.png)
 
@@ -107,7 +110,7 @@ Después presione el __botón de Subir Archivo__.
 
 Si desea hacer cambios a un ticket que se encuentra aun en estado de "SIN ATENDER" puede hacerlo editando el ticket.
 
-Ingrese al detalle de un ticket, que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha un el __botón de Editar__.
+[Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha un el __botón de Editar__.
 
 ![botón editar ticket](../../../assets/img/plataforma-web/soportes_tickets/boton-editar-ticket.png)
 
