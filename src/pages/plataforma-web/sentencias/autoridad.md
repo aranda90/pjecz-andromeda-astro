@@ -44,25 +44,26 @@ De clic en el botón **Subir V.P. de S.**. Se mostrará el formulario para subir
 
 ![Subir](../../../assets/img/plataforma-web/sentencias/nueva-sentencia.png)
 
-Llene los campos, los que aparecen en **negritas** son obligatorios:
+Llene los campos mostrados. Los que aparecen en **negritas** son obligatorios:
 
 - **Sentencia**
 - **Expediente**
 - **Fecha de la sentencia**
 - **Fecha de publicación**
 - Materia
-- Tipo de Juicio
-- Resumen
-- Es Perspectiva de Género
+- Tipo de Juicio: Después de elegir la materia debe indicar el tipo.
+- Resumen: Opcionalmente puede escribir una síntesis de máximo mil caracteres.
+- Es Perspectiva de Género: Marque la casilla de serlo.
 - **Adjuntar el archivo:** Sólo archivos PDF.
 
-Revise toda esta información antes de guardar, porque al guardar será pública de manera inmediata.
+Revise toda esta información antes de guardar, porque una vez guardada,
+será pública de manera inmediata.
 
 Al terminar de clic en el botón **Guardar**. Le mostrará el detalle.
 
 ## Editar
 
-Hasta los siete días a partir de haber subido una V.P. de Seentencia, puede editarla.
+Hasta los siete días a partir de haber subido una V.P. de Sentencia, puede editarla.
 Después de ese tiempo ya no podrán hacerse cambios.
 
 Para editar [busque y entre al detalle](#buscar-consultar) de lo que quiera modificar.
@@ -76,7 +77,7 @@ La consulta pública dará esta información de inmediato.
 
 ## Eliminar
 
-Hasta los siete días a partir de haber subido una V.P. de Seentencia, puede editarla.
+Hasta los siete días a partir de haber subido una V.P. de Sentencia, puede eliminarla.
 Después de ese tiempo ya no podrán hacerse cambios.
 
 Para eliminar [busque y entre al detalle](#buscar-consultar) de lo que quiera modificar.
@@ -85,15 +86,15 @@ De clic en el botón **Eliminar**. Mostrará una pequeña ventana para confirmar
 
 ![Eliminar](../../../assets/img/plataforma-web/sentencias/eliminar-sentencia.png)
 
-Verifique más de una vez que necesite eliminar.
+Verifique que es lo que quiere eliminar.
 De clic en **Eliminar** para que ya no sea público.
-Al estar eliminado el detalle se muestra de color oscuro.
+Al estar eliminado el detalle se muestra con fondo oscuro.
 
 ![Detalle eliminado](../../../assets/img/plataforma-web/sentencias/detalle-sentencia-eliminada.png)
 
 ## Recuperar
 
-Hasta los siete días a partir de haber subido una V.P. de Seentencia, puede editarla.
+Hasta los siete días a partir de haber subido una V.P. de Sentencia, puede recuperarla.
 Después de ese tiempo ya no podrán hacerse cambios.
 
 Para revertir lo que acaba de eliminar, de clic en el botón **Recuperar**.
@@ -101,5 +102,6 @@ Mostrará una pequeña ventana para confirmar:
 
 ![Recuperar](../../../assets/img/plataforma-web/sentencias/recuperar-sentencia.png)
 
+Verifique que es lo que quire recuperar.
 De clic en **Recuperar** para que este documento sea público de nuevo.
 Al estar recuperado el detalle aparece con el fondo claro.
