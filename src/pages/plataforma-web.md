@@ -33,11 +33,11 @@ Describir que es la Plataforma Web.
 - Estadísticas de Solicitudes
 - Estadísticas de Remesas
 
-## Publicar en el sitio web
+## Publicar documentos en el sitio web por Juzgados, Tribunales, Salas y Pleno
 
 - Edictos
 - Listas de Acuerdos
-- V.P. de las Sentencias
+- [V.P. de las Sentencias](/plataforma-web/sentencias/autoridad)
 
 ## Sistema Integral de Calidad y Gestión Documental
 
