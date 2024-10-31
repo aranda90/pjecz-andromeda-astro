@@ -1,9 +1,9 @@
 ---
 layout: ../../../layouts/MarkdownLayout.astro
-title: Creación, Edición y Cancelación de Ticket
+title: Creación, Edición y Cancelación de Tickets
 ---
 
-# Creación, Edición y Cancelación de Ticket
+# Creación, Edición y Cancelación de Tickets
 
 ## Índice
 
@@ -14,4 +14,13 @@ title: Creación, Edición y Cancelación de Ticket
 
 ---
 
-## <a name="crear-un-nuevo-ticket"></a>Captura de nuevo documento
+## <a name="crear-un-nuevo-ticket"></a>Crear un nuevo ticket
+
+
+## <a name="editar-un-ticket"></a>Editar un ticket
+
+
+## <a name="cancelar-un-ticket"></a>Cancelar un ticket
+
+
+## <a name="consultar-mis-tickets"></a>Consultar mis tickets
