@@ -91,7 +91,7 @@ Una vez dentro del detalle del ticket, podrá ver toda la información del mismo
 
 ![detalle ticket](../../../assets/img/plataforma-web/soportes_tickets/detalle-ticket.png)
 
-<a name="campos-detalle"></a>Listado de campos de un detalle de un ticket:
+<a name="campos-detalle"></a>Listado de los datos de un detalle de un ticket:
 
   - __Estado__: Estado en el que se encuentra actualmente el ticket. Véase [estados de un ticket](#estados-ticket)
   - __Descripción__: Texto descriptivo del problema que tiene. Esto fue escrito por usted.
