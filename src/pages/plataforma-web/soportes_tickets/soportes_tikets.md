@@ -17,11 +17,11 @@ title: Creación, Edición y Cancelación de Tickets para usuarios
 
 ## <a name="crear-un-nuevo-ticket"></a>Crear un nuevo ticket
 
-Ingrese a __Plataforma Web__ con una cuenta personal.
+Ingrese a __Plataforma Web__ con una cuenta personal. De esta forma vera los recuadros de inicio como a continuación:
 
-![Plataforma-web](../../../assets/img/plataforma-web/soportes_tickets/plataforma-web.png)
+![Inicio-PW](../../../assets/img/plataforma-web/soportes_tickets/inicio-pw.png)
 
-Ingrese al __módulo de Tickets__. Presione sobre la opción de tickets del menú principal izquierdo de la página de Plataforma Web.
+Puede notar el recuadro de Ticket de Soporte e ingresar al __módulo de Tickets__ desde ahí o presionando sobre la opción de tickets del menú principal izquierdo de la página de Plataforma Web.
 
 ![módulo tickets](../../../assets/img/plataforma-web/soportes_tickets/modulo-tickets.png)
 
