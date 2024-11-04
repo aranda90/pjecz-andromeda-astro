@@ -36,12 +36,12 @@ Esto lo llevará al formulario para la creación del ticket.
 Llene los siguientes campos:
 
   - __Escriba detalladamente el problema__: Aquí deberá escribir lo más detalladamente el problema que presenta, así como incluir todos los datos que se necesitan para resolverlo, como es el caso de una alta de cuenta para un compañero.
-  - __Elija una clasificación__: Si conoce realmente de que sistema o a que tipo de problema pertenece, puede eligir el sistema más adecuado.
+  - __Elija una clasificación__: Elija una clasificación según las siguientes opciones:
 
     - __Soporte Técnico__: Todo problema que tenga que ver con su PC, impresora, conexión a internet.
     - __PAIIJ__: Problemas relacionados con el sistema PAIIJ.
     - __SIGE__: Problemas relacionados con el sistema SIGE.
-    - __Otro__: Problemas que no se contemplan en los otros apartados.
+    - __Otro__: Problemas que no se contemplan en las otras clasificaciones.
     - __Infraestructura__: Problemas con las lamparas, enchufes, mobiliario, etc.
 
 Finalmente presione el botón de __Solicitar soporte__ para enviar el ticket al departamento de soporte técnico.
@@ -56,16 +56,14 @@ Lo llevará a un formulario para adjuntar un archivo
 
 ![formulario adjuntar archivo](../../../assets/img/plataforma-web/soportes_tickets/formulario-adjuntar-archivo.png)
 
-Llene el campo de:
+Llene los campos de:
 
   - __Descripción del archivo__: Coloque una pequeña descripción de lo que trata el archivo adjunto, ya sea una imagen o un PDF.
   - __Adjunta el archivo ó arrástralo__: Puede hacer clic en está área o arrastrar y dejar caer el archivo a adjuntar.
 
 Después presione el botón de __Subir Archivo__.
 
-## <a name="consultar-mis-tickets"></a>Consultar mis tickets
-
-Ingrese al __módulo de Tickets__.
+## <a name="consultar-mis-tickets"></a>Buscar y llegar al detalle de un ticket
 
 Aquí vera listado todos los tickets que ha creado, y podrá consultar el estado en el que se encuentran.
 
@@ -79,9 +77,7 @@ Aquí vera listado todos los tickets que ha creado, y podrá consultar el estado
 
 Use los botones __Anterior__, __No. de página__ y __Siguiente__ para cambiar la página del listado. Si necesita ver más filas escoja en __Mostrar__ otra cantidad.
 
-O por medio del buscador, escriba en uno o más campos cómo lo quiere filtrar y presione el botón __Lupa__ o __ENTER__ en su teclado. En cambio, el botón __Escoba__ limpia los campos del buscador y deja el listado sin filtros.
-
-## <a name="ingresar-detalle-ticket"></a>Buscar y llegar al detalle de un ticket
+Por medio del buscador, escriba en uno o más campos cómo lo quiere filtrar y presione el botón __Lupa__ o __ENTER__ en su teclado. En cambio, el botón __Escoba__ limpia los campos del buscador y deja el listado sin filtros.
 
 Para ingresar al detalle de un ticket, presione sobre el _ID_ del ticket que desea consultar.
 
