@@ -1,9 +1,9 @@
 ---
-layout: ../../../layouts/MarkdownLayout.astro
+layout: ../../layouts/MarkdownLayout.astro
 title: Creación, Edición y Cancelación de Tickets para usuarios
 ---
 
-# Creación, Edición y Cancelación de Tickets para usuarios
+# Tickets
 
 ## Índice
 
@@ -19,19 +19,19 @@ title: Creación, Edición y Cancelación de Tickets para usuarios
 
 Ingrese a __Plataforma Web__ con una cuenta personal. De esta forma vera los recuadros de inicio como a continuación:
 
-![Inicio-PW](../../../assets/img/plataforma-web/soportes_tickets/inicio-pw.png)
+![Inicio-PW](../../assets/img/plataforma_web/tickets/inicio-pw.png)
 
 Puede notar el recuadro de Ticket de Soporte e ingresar al __módulo de Tickets__ desde ahí o presionando sobre la opción de tickets del menú principal izquierdo de la página de Plataforma Web.
 
-![módulo tickets](../../../assets/img/plataforma-web/soportes_tickets/modulo-tickets.png)
+![módulo tickets](../../assets/img/plataforma_web/tickets/modulo-tickets.png)
 
 Después presione el botón de __Nuevo Ticket__ situado en la parte superior derecha de su pantalla.
 
-![botón nuevo tickets](../../../assets/img/plataforma-web/soportes_tickets/boton-nuevo-ticket.png)
+![botón nuevo tickets](../../assets/img/plataforma_web/tickets/boton-nuevo-ticket.png)
 
 Esto lo llevará al formulario para la creación del ticket.
 
-![Formulario nuevo tickets](../../../assets/img/plataforma-web/soportes_tickets/nuevo-ticket.png)
+![Formulario nuevo tickets](../../assets/img/plataforma_web/tickets/nuevo-ticket.png)
 
 Llene los siguientes campos:
 
@@ -50,11 +50,11 @@ Finalmente presione el botón de __Solicitar soporte__ para enviar el ticket al 
 
 [Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte inferior izquierda el listado de 'Archivos Adjuntos' y un el botón de __Adjuntar_Archivo__.
 
-![botón adjuntar archivo](../../../assets/img/plataforma-web/soportes_tickets/boton-adjuntar-archivo.png)
+![botón adjuntar archivo](../../assets/img/plataforma_web/tickets/boton-adjuntar-archivo.png)
 
 Lo llevará a un formulario para adjuntar un archivo
 
-![formulario adjuntar archivo](../../../assets/img/plataforma-web/soportes_tickets/formulario-adjuntar-archivo.png)
+![formulario adjuntar archivo](../../assets/img/plataforma_web/tickets/formulario-adjuntar-archivo.png)
 
 Llene los campos de:
 
@@ -81,11 +81,11 @@ Por medio del buscador, escriba en uno o más campos cómo lo quiere filtrar y p
 
 Para ingresar al detalle de un ticket, presione sobre el _ID_ del ticket que desea consultar.
 
-![id ticket](../../../assets/img/plataforma-web/soportes_tickets/id_ticket.png)
+![id ticket](../../assets/img/plataforma_web/tickets/id_ticket.png)
 
 Una vez dentro del detalle del ticket, podrá ver toda la información del mismo, como en el siguiente ejemplo:
 
-![detalle ticket](../../../assets/img/plataforma-web/soportes_tickets/detalle-ticket.png)
+![detalle ticket](../../assets/img/plataforma_web/tickets/detalle-ticket.png)
 
 <a name="campos-detalle"></a>Listado de los datos de un detalle de un ticket:
 
@@ -107,7 +107,7 @@ Si desea hacer cambios a un ticket que se encuentra aun en estado de "SIN ATENDE
 
 [Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha un el botón de __Editar__.
 
-![botón editar ticket](../../../assets/img/plataforma-web/soportes_tickets/boton-editar-ticket.png)
+![botón editar ticket](../../assets/img/plataforma_web/tickets/boton-editar-ticket.png)
 
 Lo llevará a un nuevo formulario donde lo único que puede editar es el detalle del problema.
 
@@ -117,8 +117,8 @@ Si ya se corrigió el problema o ya no presentó problemas, puede cancelar el ti
 
 [Ingrese al detalle de un ticket](#ingresar-detalle-ticket), que se encuentre en estado de "SIN ATENDER". Ahí vera en la parte superior derecha de su pantalla el botón de __Cancelar__.
 
-![botón cancelar tickets](../../../assets/img/plataforma-web/soportes_tickets/boton-cancelar.png)
+![botón cancelar tickets](../../assets/img/plataforma_web/tickets/boton-cancelar.png)
 
 Después confirme la ventana de advertencia, presionando sobre el botón __Cancelar Ticket__.
 
-![ventana cancelar ticket](../../../assets/img/plataforma-web/soportes_tickets/cancelar-ticket.png)
+![ventana cancelar ticket](../../assets/img/plataforma_web/tickets/cancelar-ticket.png)
