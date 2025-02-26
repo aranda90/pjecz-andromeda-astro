@@ -19,27 +19,27 @@ title: Buscar, asignar y enviar solicitudes de expedientes por parte del rol Jef
 
 Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo. El primer listado será el de _Solicitudes_.
 
-![módulo archivo](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
+![módulo archivo](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
 
 Puede utilizar los campos como filtros para reducir el número de registros en el listado y así encontrar un registro con más facilidad.
 
-![filtros solicitudes](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/02-filtros-solicitudes.png)
+![filtros solicitudes](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/02-filtros-solicitudes.png)
 
 De clic sobre el campo de _ID_ para ir al detalle de una solicitud.
 
-![entrar en detalle de solicitud](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/03-entrar-detalle-solicitud.png)
+![entrar en detalle de solicitud](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/03-entrar-detalle-solicitud.png)
 
 ## <a name="ingresar-al-detalle-de-una-solicitud"></a>Ingresar al detalle de una solicitud
 
 Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo. El primer listado será el de _Solicitudes_.
 
-![módulo archivo](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
+![módulo archivo](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
 
 Puede hacer una búsqueda para encontrar el registro indicado. [Búsqueda de solicitudes](#búsqueda-de-solicitudes).
 
 De clic sobre el campo: _ID_ para ir al detalle de una solicitud.
 
-![entrar en detalle de solicitud](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/03-entrar-detalle-solicitud.png)
+![entrar en detalle de solicitud](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/03-entrar-detalle-solicitud.png)
 
 Dentro del detalle podrá realizar más acciones, consultar la información de la solicitud y las bitácoras.
 
@@ -49,17 +49,17 @@ Entre al detalle de una _solicitud_. [Ingresar al detalle de una solicitud](#ing
 
 Vaya al apartado de Asignación y del listado seleccione al _Archivista_ preferido y presione sobre el __botón de Asignar__.
 
-![Asignacion](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/04-asignacion.png)
+![Asignacion](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/04-asignacion.png)
 
 En el listado de _solicitudes_ vera como cambia su estado a _Asigando_.
 
-![Asignado](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/05-asignado.png)
+![Asignado](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/05-asignado.png)
 
 ## <a name="enviar-una-solicitud"></a>Enviar una Solicitud
 
 Una vez procesada por el _Archivista_ y si fue encontrada. En el detalle de la _solicitud_ [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud) aparecerá el apartado de _Enviar_ con el __botón de Enviar__, presiónelo cuando se encuentre listo para enviar dicha solicitud.
 
-![Botón Enviar](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/06-enviar.png)
+![Botón Enviar](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/06-enviar.png)
 
 En el listado de _solicitudes_ vera como cambia su estado a _Enviado_.
 
@@ -67,8 +67,8 @@ En el listado de _solicitudes_ vera como cambia su estado a _Enviado_.
 
 Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo. El primer listado será el de _Solicitudes_.
 
-![módulo archivo](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
+![módulo archivo](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
 
 En la parte superior del lado derecho aparecerá el __botón Historial__. Presione el botón y accederá al historial.
 
-![historial](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-solicitudes/09-historial.png)
+![historial](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/09-historial.png)

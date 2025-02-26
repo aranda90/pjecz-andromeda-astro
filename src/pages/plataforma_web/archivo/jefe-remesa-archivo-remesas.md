@@ -20,7 +20,7 @@ Ingrese al __módulo de Archivo__ y el segundo listado será el de _Remesas_.
 
 Puede utilizar los campos como filtros para reducir el número de registros en el listado y así encontrar un registro con más facilidad.
 
-![Filtros listado remesas](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-remesas/02-filtros-remesas.png)
+![Filtros listado remesas](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/02-filtros-remesas.png)
 
 ## <a name="ingresar-al-detalle-de-una-remesa"></a>Ingresar al detalle de una remesa
 
@@ -28,7 +28,7 @@ Busque y identifique la remesa que desea consultar.
 
 De clic sobre el campo de _ID_ para ir al detalle de una _remesa_.
 
-![Entrar en Detalle de Remesa](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-remesas/03-entrar-detalle-remesa.png)
+![Entrar en Detalle de Remesa](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/03-entrar-detalle-remesa.png)
 
 Lo llevará a una nueva pantalla con los detalles de la remesa y sus bitácoras.
 
@@ -38,7 +38,7 @@ Entre al detalle de una remesa que se encuentre en el estado de _Enviado_. [Ingr
 
 Vaya al apartado de _Rechazar_ y presione el __botón de Rechazar__.
 
-![Rechazar](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-remesas/04-rechazar.png)
+![Rechazar](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/04-rechazar.png)
 
 En el listado de remesas ahora aparecerá el registro con el estado _Rechazado_.
 
@@ -48,6 +48,6 @@ Entre al detalle de una remesa que se encuentre en el estado de _Enviado_.
 
 Vaya al apartado de Asignación y seleccione un Archivista, después presione el __botón de Asignar__.
 
-![Asignacion](../../../assets/img/plataforma-web/archivo/jefe-remesa-archivo-remesas/05-asignacion.png)
+![Asignacion](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/05-asignacion.png)
 
 En el listado de remesas ahora aparecerá el registro con el estado _Asignado_.
