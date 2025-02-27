@@ -11,7 +11,7 @@ title: Exhortos
 
 Puede utilizar los campos de búsqueda que se encuentran arriba del listado para buscar algún exhorto.
 
-Además puede ingresar al detlla dando clic sobre el ID de un registros dentro de listado mostrado.
+Además puede ingresar al detalla dando clic sobre el ID de un registros dentro de listado mostrado.
 
 
 ## Crear un nuevo exhorto
@@ -33,11 +33,11 @@ Ahora debe añadir alguna parte y un archivo adjunto.
 
 Vaya al detalle de un exhorto que se encuentre en estado PENDIENTE.
 
-Dirigase al apartado de Partes y presione el **botón Agregar** para ir al formulario de captura de partes.
+Diríjase al apartado de Partes y presione el **botón Agregar** para ir al formulario de captura de partes.
 
 ![Formulario Nueva Parte](../../assets/img/plataforma_web/exhortos/03-form-nueva-parte.png)
 
-Puede elejir entre una persona moral o física. Activando la casilla de **Es Persona Moral**.
+Puede elegir entre una persona moral o física. Activando la casilla de **Es Persona Moral**.
 
 Además puede especificar el **Tipo de Parte** si selecciona la opción de *No Definido*.
 
@@ -53,7 +53,7 @@ Tiene que seleccionar el *Tipo* y anexar un archivo adjunto. Después presione e
 
 ## Enviar el exhorto
 
-Si su exhorto ya contiene al menos una parte y un archivo anexo. Entre al detalle del exhoroto y presione el **botón Enviar**.
+Si su exhorto ya contiene al menos una parte y un archivo anexo. Entre al detalle del exhorto y presione el **botón Enviar**.
 
 ![Botón Enviar Exhorto](../../assets/img/plataforma_web/exhortos/05-btn-enviar.png)
 
@@ -66,7 +66,7 @@ Aparecerá una ventana para confirmar su acción
 
 Primero debe adjuntar algún archivo de respuesta y/o un enlace de video.
 
-Para agregar un archivo de respuesta, vaya al apartado de *Archivos de Respuesta* y presione el **botón Argregar Archivo de Respuesta**
+Para agregar un archivo de respuesta, vaya al apartado de *Archivos de Respuesta* y presione el **botón Agregar Archivo de Respuesta**
 
 ![Botón Archivo de Respuesta](../../assets/img/plataforma_web/exhortos/07-btn-archivo-respuesta.png)
 
@@ -97,7 +97,7 @@ Dentro del detalle de un Exhorto vaya al apartado de *Actualizaciones* y presion
 
 ![Botón Agregar Actualización](../../assets/img/plataforma_web/exhortos/13-btn-agregar-actualizacion.png)
 
-Abrirá un formulario para la capatura de la actualización. Llene los campos y presione el **botón Guardar**
+Abrirá un formulario para la captura de la actualización. Llene los campos y presione el **botón Guardar**
 
 ![Formulario Enlace de Video](../../assets/img/plataforma_web/exhortos/14-form-actualizacion.png)
 
