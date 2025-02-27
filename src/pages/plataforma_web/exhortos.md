@@ -13,7 +13,6 @@ Puede utilizar los campos de búsqueda que se encuentran arriba del listado para
 
 Además puede ingresar al detalla dando clic sobre el ID de un registros dentro de listado mostrado.
 
-
 ## Crear un nuevo exhorto
 
 Dentro del módulo de Exhortos presione el **botón de Nuevo Exhorto**.
@@ -28,7 +27,6 @@ Una vez que haya terminado de llenar los campos obligatorios presione el **botó
 
 Ahora debe añadir alguna parte y un archivo adjunto.
 
-
 ## Agregar partes al exhorto
 
 Vaya al detalle de un exhorto que se encuentre en estado PENDIENTE.
@@ -41,7 +39,6 @@ Puede elegir entre una persona moral o física. Activando la casilla de **Es Per
 
 Además puede especificar el **Tipo de Parte** si selecciona la opción de *No Definido*.
 
-
 ## Subir archivos al exhorto
 
 Dentro del detalle de un exhorto vaya al apartado de *Archivos* y presione el  **botón Agregar**.
@@ -49,7 +46,6 @@ Dentro del detalle de un exhorto vaya al apartado de *Archivos* y presione el  *
 ![Formulario Nuevo Archivo](../../assets/img/plataforma_web/exhortos/04-form-nuevo-archivo.png)
 
 Tiene que seleccionar el *Tipo* y anexar un archivo adjunto. Después presione el **botón subir**.
-
 
 ## Enviar el exhorto
 
@@ -60,7 +56,6 @@ Si su exhorto ya contiene al menos una parte y un archivo anexo. Entre al detall
 Aparecerá una ventana para confirmar su acción
 
 ![Botón Enviar Exhorto](../../assets/img/plataforma_web/exhortos/06-modal-enviar.png)
-
 
 ## Responder el exhorto
 
@@ -78,7 +73,7 @@ Para anexar un enlace de video, dentro del detalle del exhorto presione el **bot
 
 ![Botón Agregar Enlace de Video](../../assets/img/plataforma_web/exhortos/09-btn-enlace-video.png)
 
-Abrirá un formulario para rellenar los datos necesarios.
+Abrirá un formulario para capturar los datos necesarios.
 
 ![Formulario Enlace de Video](../../assets/img/plataforma_web/exhortos/10-form-enlace-video.png)
 
@@ -89,7 +84,6 @@ Ahora podrá contestar el exhorto, presionando el **botón Diligenciar**
 Después aparecerá y deberá presionar el **botón Contestar** para mandar los archivos de respuesta del exhorto al estado origen.
 
 ![Botón Contestar](../../assets/img/plataforma_web/exhortos/12-btn-contestar.png)
-
 
 ## Enviar actualizaciones de un exhorto
 
@@ -109,18 +103,16 @@ Entrando al detalle de la actualización y si el estado de la misma es PENDIENTE
 
 ![Botón Enviar Actualización](../../assets/img/plataforma_web/exhortos/15-btn-enviar-actualizacion.png)
 
-
 ## Enviar promociones de un exhorto
 
 Dentro del detalle de un Exhorto vaya al apartado de *Promociones* y presione el **botón Agregar Promoción**
 
 ![Botón Agregar Promoción](../../assets/img/plataforma_web/exhortos/17-btn-agregar-promocion.png)
 
-Rellene el formulario para crear una promoción que quedará en estado PENDIENTE
+Capture la información en el formulario para crear una promoción que quedará en estado PENDIENTE
 
 ![Formulario Nuevo Promoción](../../assets/img/plataforma_web/exhortos/18-form-nueva-promocion.png)
 
 Ahora debe agregar promoventes y archivos adjuntos antes de poder presionar el **botón Enviar**
 
 ![Detalle Promoción](../../assets/img/plataforma_web/exhortos/19-detalle-promocion.png)
-
