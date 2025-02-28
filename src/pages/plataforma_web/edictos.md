@@ -14,11 +14,11 @@ La página de inicio se muestra así:
 
 ![De clic en Edictos](../../assets/img/plataforma_web/edictos/inicio.png)
 
-Haga clic en el módulo Edictos. Se mostrará un listado con los edictos en orden cronológico inverso.
+Haga clic en el módulo **Edictos**. Se mostrará un listado con los edictos en orden cronológico inverso.
 
 ![Listado](../../assets/img/plataforma_web/edictos/listado-edictos.png)
 
-Utilice los botones **Anterior**, **No. de página** y **Siguiente** para navegar lentre las páginas del listado. Si necesita visualizar más filas, seleccione otra cantidad en la opción **Mostrar** 
+Utilice los botones **Anterior**, **No. de página** y **Siguiente** para navegar entre las páginas del listado. Si necesita visualizar más filas, seleccione otra cantidad en la opción **Mostrar** 
 
 También puede usar el buscador, escriba en uno o más campos cómo lo quiere filtrar y
 presione el botón **Lupa** o **ENTER** en su teclado. En cambio,
@@ -31,14 +31,11 @@ En la vista detallada, encontrará los datos en el primer bloque y, en el segund
 
 ![Detalle](../../assets/img/plataforma_web/edictos/detalle.png)
 
-Use el botón **Acuse** para generar el acuse mismo que puede imprimir,
-a la impresora o para generar un archivo PDF.
+Haga clic en el botón **Acuse** para generar un comprobante de publicación, el cual puede imprimir o guardar como archivo PDF.
 
-Use el botón **Descargar** para bajar una copia del archivo PDF.
-Para buscar o consultar
+Use el botón **Descargar** para bajar una copia del archivo PDF del **Edicto**.
 
 ## Subir un edicto
-
 
 Haga clic en el botón **Subir Edicto**. Se mostrará el formulario para subir.
 
