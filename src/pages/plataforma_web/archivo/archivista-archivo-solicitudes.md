@@ -41,7 +41,7 @@ Dentro del detalle podrá realizar más acciones, consultar la información de l
 
 ## <a name="imprimir-listado"></a>Imprimir Listado
 
-Al final del listado de _Solicitudes_ se encuentra el __botón de Imprimir Listado__. Presionelo para ir a otra página donde podrá mandar a imprimir el listado.
+Al final del listado de _Solicitudes_ se encuentra el botón __Imprimir Listado__. Presionelo para ir a otra página donde podrá mandar a imprimir el listado.
 
 ![Imprimir Listado](../../../assets/img/plataforma_web/archivo/archivista-archivo-solicitudes/04-imprimir-listado.png)
 
@@ -55,7 +55,7 @@ Encontrará dos apartados:
 
 ![Responder Solicitud](../../../assets/img/plataforma_web/archivo/archivista-archivo-solicitudes/05-responder-solicitud.png)
 
-Responda lo que acontece, llenado los campos requeridos y presionando sobre el __botón Encontrado__ o __botón NO Encontrado__, dependiendo del resultado a dar.
+Responda lo que acontece, llenado los campos requeridos y presionando sobre el botón __Encontrado__ o botón __NO Encontrado__, dependiendo del resultado a dar.
 
 En el _listado de solicitudes_ el estado deberá cambiar al elegido.
 
@@ -65,6 +65,6 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/archivista-archivo-solicitudes/01-modulo-archivo.png)
 
-En la parte superior del lado derecho aparecerá el __botón Historial__. Presione el botón y accederá al historial.
+En la parte superior del lado derecho aparecerá el botón __Historial__. Presione el botón y accederá al historial.
 
 ![historial](../../../assets/img/plataforma_web/archivo/archivista-archivo-solicitudes/09-historial.png)

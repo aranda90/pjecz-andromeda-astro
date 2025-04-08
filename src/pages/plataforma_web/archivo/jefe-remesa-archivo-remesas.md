@@ -36,7 +36,7 @@ Lo llevará a una nueva pantalla con los detalles de la remesa y sus bitácoras.
 
 Entre al detalle de una remesa que se encuentre en el estado de _Enviado_. [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa)
 
-Vaya al apartado de _Rechazar_ y presione el __botón de Rechazar__.
+Vaya al apartado de _Rechazar_ y presione el botón __Rechazar__.
 
 ![Rechazar](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/04-rechazar.png)
 
@@ -46,8 +46,8 @@ En el listado de remesas ahora aparecerá el registro con el estado _Rechazado_.
 
 Entre al detalle de una remesa que se encuentre en el estado de _Enviado_.
 
-Vaya al apartado de Asignación y seleccione un Archivista, después presione el __botón de Asignar__.
+Vaya al apartado de Asignación y seleccione un Archivista, después presione el botón __Asignar__.
 
-![Asignacion](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/05-asignacion.png)
+![Asignación](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-remesas/05-asignacion.png)
 
 En el listado de remesas ahora aparecerá el registro con el estado _Asignado_.
