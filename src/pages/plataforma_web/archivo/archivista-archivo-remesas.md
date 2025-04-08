@@ -39,11 +39,11 @@ Lo llevará a una nueva pantalla con los detalles de la remesa y sus bitácoras.
 
 [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa).
 
-Debajo del detalle de la remesa esta el __botón de Añadir Anomalía General__. Presiónelo.
+Debajo del detalle de la remesa esta el botón __Añadir Anomalía General__. Presiónelo.
 
 ![botón añadir anomalía general](../../../assets/img/plataforma_web/archivo/archivista-archivo-remesas/04-boton-amanolia-general.png)
 
-Al presionar el botón llegará a esta ventana, llene los campos y presione el __botón de Guardar__.
+Al presionar el botón llegará a esta ventana, llene los campos y presione el botón __Guardar__.
 
 ![añadir anomalía general](../../../assets/img/plataforma_web/archivo/archivista-archivo-remesas/05-anomalia-general.png)
 
@@ -59,7 +59,7 @@ Ingrese al documento anexo dando clic al campo _ID_ del _listado de Documentos_
 
 [Entre al detalle de una remesa](#ingresar-al-detalle-de-una-remesa) que se encuentra en estado de _Pendiente_ y con un listado de documentos anexados.
 
-Al final de _listado de documentos_ presione el __botón de Imprimir Listado__.
+Al final de _listado de documentos_ presione el botón __Imprimir Listado__.
 
 ![Imprimir listado de archivos anexos](../../../assets/img/plataforma_web/archivo/archivista-archivo-remesas/10-boton-imprimir-listado.png)
 
@@ -67,4 +67,4 @@ Abrirá una nueva pantalla donde verá el listado de documentos anexos a la reme
 
 ![Imprimir Listado](../../../assets/img/plataforma_web/archivo/archivista-archivo-remesas/11-imprimir-listado.png)
 
-Presine el __botón de imprimir__ situado en la parte superior derecha de su pantalla.
+Presione el botón __imprimir__ situado en la parte superior derecha de su pantalla.

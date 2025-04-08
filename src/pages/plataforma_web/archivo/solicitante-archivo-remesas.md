@@ -50,7 +50,7 @@ Ingrese al __módulo de Archivo__ dentro del menú general del lado izquierdo co
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
 
-Localice al inicio de listado el __botón de Nueva Remesa__.
+Localice al inicio de listado el botón __Nueva Remesa__.
 
 ![Boton Nueva Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/02-boton-nueva-remesa.png)
 
@@ -58,7 +58,7 @@ Al presionar sobre el botón ira a una nueva pantalla.
 
 ![Nueva remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/04-nueva-remesa.png)
 
-Rellene los campos y presione sobre el __botón de Crear__.
+Llene los campos y presione sobre el botón __Crear__.
 
 En el _listado de Remesas_ aparecerá un nuevo registro con el estado de _Pendiente_.
 
@@ -66,7 +66,7 @@ En el _listado de Remesas_ aparecerá un nuevo registro con el estado de _Pendie
 
 Entre en el detalle de la remesa en cuestión que se encuentre en estado de _Pendiente_. [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa)
 
-Presione el __botón de Cancelar__.
+Presione el botón __Cancelar__.
 
 ![Botón Cancelar](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/06-cancelar.png)
 
@@ -78,13 +78,13 @@ Entre al __módulo de Expedientes__.
 
 Localice el documento que debe estar en ubicación _Juzgado_.
 
-Presione el __botón Añadir a Remesa__.
+Presione el botón __Añadir a Remesa__.
 
 En la nueva ventana seleccione la remesa indicada.
 
 ![Añadir Documento a Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/07-anadir-documento.png)
 
-Rellene los campos restantes y presione sobre el __botón Agregar Documento__.
+Llene los campos restantes y presione sobre el botón __Agregar Documento__.
 
 ## <a name="consultar-editar-quitar-documentos-anexos"></a>Consultar, Editar o Quitar Documentos anexos a una remesa pendiente
 
@@ -98,7 +98,7 @@ Presione sobre los botones de acción que se encuentran en el listado de documen
 
 Entre al detalle de una remesa que se encuentra en estado de _Pendiente_ y con un listado de documentos anexados. [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa)
 
-Al final de _listado de documentos_ presione el __botón de Imprimir Listado__.
+Al final de _listado de documentos_ presione el botón __Imprimir Listado__.
 
 ![Imprimir listado de archivos anexos](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/10-boton-imprimir-listado.png)
 
@@ -106,25 +106,25 @@ Abrirá una nueva pantalla donde verá el listado de documentos anexos a la reme
 
 ![Imprimir Listado](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/11-imprimir-listado.png)
 
-Presione el __botón de imprimir__ situado en la parte superior derecha de su pantalla.
+Presione el botón __imprimir__ situado en la parte superior derecha de su pantalla.
 
 ## <a name="enviar-remesa"></a>Enviar remesa
 
 Entre al detalle de una remesa que se encuentra en estado de _Pendiente_ y con un listado de documentos anexados. [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa)
 
-Se habilitará el __botón de Enviar__. Presione dicho botón cuando se encuentre listo para enviar a Archivo esta remesa.
+Se habilitará el botón __Enviar__. Presione dicho botón cuando se encuentre listo para enviar a Archivo esta remesa.
 
 ![Enviar Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/08-enviar.png)
 
 Acepte el mensaje de alerta.
 
-En el listado de remesas ahora aparecerá con el estado de _Enviando_ y el departamento de archivo envíara a alguien a recogerla.
+En el listado de remesas ahora aparecerá con el estado de _Enviando_ y el departamento de archivo enviará a alguien a recogerla.
 
 ## <a name="pasar-al-historial-una-remesa"></a>Pasar al Historial una remesa
 
 Ingrese al detalle de una _remesa_ con estado de _Archivado_. [Ingresar al detalle de una remesa](#ingresar-al-detalle-de-una-remesa)
 
-Ahora vera habilitado el __botón de Pasar al Historial__. De clic en él.
+Ahora vera habilitado el botón __Pasar al Historial__. De clic en él.
 
 ![Botón Pasar al Historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/12-boton-pasar-historial.png)
 
@@ -136,6 +136,6 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
 
-En la parte superior del lado derecho aparecera el __botón Historial__. Presione el botón y accederá al historial.
+En la parte superior del lado derecho aparecerá el botón __Historial__. Presione el botón y accederá al historial.
 
 ![historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/09-boton-historial.png)

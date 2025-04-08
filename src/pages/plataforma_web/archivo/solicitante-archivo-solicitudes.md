@@ -34,7 +34,7 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/01-modulo-archivo.png)
 
-Puede hacer una búsqueda para econtrar el registro indicado. [Búsqueda de solicitudes](#búsqueda-de-solicitudes).
+Puede hacer una búsqueda para encontrar el registro indicado. [Búsqueda de solicitudes](#búsqueda-de-solicitudes).
 
 De clic sobre el campo: _ID_ para ir al detalle de una solicitud.
 
@@ -48,11 +48,11 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/01-modulo-archivo.png)
 
-Presione sobre el __botón de Nueva Solicitud__ que se encuentra sobre el listado de _solicitudes_ o ingrese directamente al __módulo de Expedientes__ y filtrando por el campo de _ubicación_ seleccione el valor de _archivo_. Al entrar al detalle de un expediente vera activo un botón llamado __Solicitar__.
+Presione sobre el botón __Nueva Solicitud__ que se encuentra sobre el listado de _solicitudes_ o ingrese directamente al __módulo de Expedientes__ y filtrando por el campo de _ubicación_ seleccione el valor de _archivo_. Al entrar al detalle de un expediente vera activo un botón llamado __Solicitar__.
 
 ![botón solicitar expediente](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/04-boton-solicitar.png)
 
-Presionando sobre el __botón Solicitar__, se iniciará una solicitud de expediente. Puede indicar un _Número de Folio_ o una _Observación_ y presione sobre el botón __Solicitar__.
+Presionando sobre el botón __Solicitar__, se iniciará una solicitud de expediente. Puede indicar un _Número de Folio_ o una _Observación_ y presione sobre el botón __Solicitar__.
 
 ![Solicitar expediente](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/08-solicitar.png)
 
@@ -60,7 +60,7 @@ Presionando sobre el __botón Solicitar__, se iniciará una solicitud de expedie
 
 Ingrese al detalle de una _solicitud_. [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud)
 
-Si la _solicitud_ se encentra en estado de _SOLICITADO_ aparecera el __botón de Cancelar__. Presione el __botón de Cancelar__.
+Si la _solicitud_ se encentra en estado de _SOLICITADO_ aparecerá el botón __Cancelar__. Presione el botón __Cancelar__.
 
 ![Botón cancelar solicitud](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/05-cancelar-solicitud.png)
 
@@ -72,17 +72,17 @@ Su solicitud ha sido cancelada.
 
 Ingrese al detalle de una _solicitud_ con estado de _Enviado_. [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud)
 
-Dentro del detalle aparecerá el apartado de _Recibir_ con el __botón de Recibir__.
+Dentro del detalle aparecerá el apartado de _Recibir_ con el botón __Recibir__.
 
 ![Botón recibir solicitud](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/06-recibir.png)
 
-Presione el __botón de Recibir__ para cambiar el estado de la _solicitud_ a _Entregado_.
+Presione el botón __Recibir__ para cambiar el estado de la _solicitud_ a _Entregado_.
 
 ## <a name="pasar-al-historial-una-solicitud"></a>Pasar al Historial una solicitud
 
 Ingrese al detalle de una _solicitud_ con estado de _Entregado_. [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud)
 
-Ahora vera habilitado el __botón de Pasar al Historial__. De clic en él.
+Ahora vera habilitado el botón __Pasar al Historial__. De clic en él.
 
 ![Botón Pasar al Historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/07-pasar-historial.png)
 
@@ -94,6 +94,6 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/01-modulo-archivo.png)
 
-En la parte superior del lado derecho aparecerá el __botón Historial__. Presione el botón y accederá al historial.
+En la parte superior del lado derecho aparecerá el botón __Historial__. Presione el botón y accederá al historial.
 
 ![historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-solicitudes/09-historial.png)

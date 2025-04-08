@@ -24,11 +24,11 @@ Presionar sobre el botón de __Nuevo Documento__ para comenzar la captura. Esto 
 
 ![Botón nuevo documento](../../../assets/img/plataforma_web/archivo/todos-expedientes/02-boton-nuevo-documento.png)
 
-Puede utilizar el recuadro del apartado: _búsqueda en Expediente Virtual_ para buscar por número de expediente y así recibir algunos campos ya rellenados.
+Puede utilizar el recuadro del apartado: _búsqueda en Expediente Virtual_ para buscar por número de expediente y así recibir algunos campos ya llenados.
 
 ![Captura de Documento](../../../assets/img/plataforma_web/archivo/todos-expedientes/03-captura-documento.png)
 
-Escriba los campos correspondientes y presione sobre el __botón Crear__ para guardar el documento.
+Escriba los campos correspondientes y presione sobre el botón __Crear__ para guardar el documento.
 
 ## <a name="búsqueda-de-expediente"></a>Búsqueda de expediente
 
@@ -60,10 +60,10 @@ Ingresar al __módulo de Expedientes__ dando clic en la opción que se encuentra
 
 Localice el expediente que desea haciendo uso de los filtros o consulte el apartado de [búsqueda de expediente](#búsqueda-de-expediente).
 
-Presione sobre el campo: _Número de Expediente_ para ingresara al detalle del expediente.
+Presione sobre el campo: _Número de Expediente_ para ingresar al detalle del expediente.
 
-Presione sobre el __botón de Editar__.
+Presione sobre el botón __Editar__.
 
 ![Botón editar expediente](../../../assets/img/plataforma_web/archivo/todos-expedientes/06-editar-expediente.png)
 
-Cambie los campos que desea y presione sobre el __botón Guardar__.
+Cambie los campos que desea y presione sobre el botón __Guardar__.

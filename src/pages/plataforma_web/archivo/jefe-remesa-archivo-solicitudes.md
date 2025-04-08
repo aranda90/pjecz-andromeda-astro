@@ -47,7 +47,7 @@ Dentro del detalle podrá realizar más acciones, consultar la información de l
 
 Entre al detalle de una _solicitud_. [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud)
 
-Vaya al apartado de Asignación y del listado seleccione al _Archivista_ preferido y presione sobre el __botón de Asignar__.
+Vaya al apartado de Asignación y del listado seleccione al _Archivista_ preferido y presione sobre el botón __Asignar__.
 
 ![Asignacion](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/04-asignacion.png)
 
@@ -57,7 +57,7 @@ En el listado de _solicitudes_ vera como cambia su estado a _Asigando_.
 
 ## <a name="enviar-una-solicitud"></a>Enviar una Solicitud
 
-Una vez procesada por el _Archivista_ y si fue encontrada. En el detalle de la _solicitud_ [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud) aparecerá el apartado de _Enviar_ con el __botón de Enviar__, presiónelo cuando se encuentre listo para enviar dicha solicitud.
+Una vez procesada por el _Archivista_ y si fue encontrada. En el detalle de la _solicitud_ [Ingresar al detalle de una solicitud](#ingresar-al-detalle-de-una-solicitud) aparecerá el apartado de _Enviar_ con el botón __Enviar__, presiónelo cuando se encuentre listo para enviar dicha solicitud.
 
 ![Botón Enviar](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/06-enviar.png)
 
@@ -69,6 +69,6 @@ Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo c
 
 ![módulo archivo](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/01-modulo-archivo.png)
 
-En la parte superior del lado derecho aparecerá el __botón Historial__. Presione el botón y accederá al historial.
+En la parte superior del lado derecho aparecerá el botón __Historial__. Presione el botón y accederá al historial.
 
 ![historial](../../../assets/img/plataforma_web/archivo/jefe-remesa-archivo-solicitudes/09-historial.png)
