@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Creación, Edición y Cancelación de Tickets para usuarios
+title: Plataforma Web - Tickets
 ---
 
-# Tickets
+# Plataforma Web - Tickets
 
 ## Índice
 

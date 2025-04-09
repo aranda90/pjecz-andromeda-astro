@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Sistema Integral de Calidad y Gestión Documental
+title: Plataforma Web - Sistema Integral de Calidad y Gestión Documental
 ---
 
-# Sistema Integral de Calidad y Gestión Documental (SICGD)
+# Plataforma Web - Sistema Integral de Calidad y Gestión Documental (SICGD)
 
 Como parte del compromiso por institucionalizar nuestro **Modelo de Justicia** estamos comprometidos a brindar un servicio de calidad y gestión documental. Para lograrlo, vamos a integrar nuestros procesos de servicios a los requisitos de las **Normas Internacionales ISO 9001:2005 e ISO 30301:2019.**
 

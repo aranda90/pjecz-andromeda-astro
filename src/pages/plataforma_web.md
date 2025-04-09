@@ -9,7 +9,7 @@ Plataforma Web es el sistema para la administración de la información instituc
 
 Para ingresar debe tener una cuenta de correo electónico de coahuila.gob.mx, pjecz.gob.mx o de los proveedores Microsoft (hotmail, outlook) o Google (gmail). Plataforma Web no usa contraseña por lo que antes de entrar debe tener iniciada su sesión en su cuenta de correo electrónico.
 
-## Manuales
+## Módulos documentados
 
 - [Edictos](/plataforma_web/edictos)
 - [Exhortos](/plataforma_web/exhortos)

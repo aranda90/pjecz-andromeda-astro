@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Versión Pública de Sentencias
+title: Plataforma Web - Versión Pública de Sentencias
 ---
 
-# Versión Pública de Sentencias
+# Plataforma Web - Versión Pública de Sentencias
 
 ## <a name="buscar-consultar"></a>Buscar y consultar
 
