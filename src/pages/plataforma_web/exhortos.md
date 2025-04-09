@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Exhortos
+title: Plataforma Web - Exhortos
 ---
 
-# Exhortos
+# Plataforma Web - Exhortos
 
 ## Buscar y consultar exhortos
 

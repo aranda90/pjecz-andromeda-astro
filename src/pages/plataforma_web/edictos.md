@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Edictos
+title: Plataforma Web - Edictos
 ---
 
-# Edictos
+# Plataforma Web - Edictos
 
 Los edictos son comunicaciones oficiales públicas cuyo objetivo es promulgar una disposición, hacer pública una resolución, dar noticia de la celebración de un acto o citar a una persona. En el sistema, el módulo de Edictos permite a los juzgados de diferentes materias gestionar la publicación y consulta de estos documentos de manera eficiente y organizada.
 
@@ -18,7 +18,7 @@ Haga clic en el módulo **Edictos**. Se mostrará un listado con los edictos en 
 
 ![Listado](../../assets/img/plataforma_web/edictos/listado-edictos.png)
 
-Utilice los botones **Anterior**, **No. de página** y **Siguiente** para navegar entre las páginas del listado. Si necesita visualizar más filas, seleccione otra cantidad en la opción **Mostrar** 
+Utilice los botones **Anterior**, **No. de página** y **Siguiente** para navegar entre las páginas del listado. Si necesita visualizar más filas, seleccione otra cantidad en la opción **Mostrar**
 
 También puede usar el buscador, escriba en uno o más campos cómo lo quiere filtrar y
 presione el botón **Lupa** o **ENTER** en su teclado. En cambio,

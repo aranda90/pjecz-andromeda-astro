@@ -3,11 +3,11 @@ layout: ../layouts/MarkdownLayout.astro
 title: Plataforma Archivo Judicial General
 ---
 
-## Plataforma Archivo Judicial General
+# Plataforma Archivo Judicial General
 
 Consulta de documentos y entrega de remesas al Archivo Judicial General.
 
-## Manuales
+## Procedimientos documentados por roles
 
 **Rol Archivista:**
 

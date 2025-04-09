@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Listas de Acuerdos
+title: Plataforma Web - Listas de Acuerdos
 ---
 
-# Listas de Acuerdos
+# Plataforma Web - Listas de Acuerdos
 
 ## Buscar y consultar
 

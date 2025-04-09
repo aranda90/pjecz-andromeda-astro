@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Recepción y Asignación de remesas por parte del rol Archivista
+title: Archivar una remesa por parte del rol Archivista
 ---
 
 # Archivar una remesa por parte del _rol Archivista_
