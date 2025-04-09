@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/MarkdownLayout.astro
+layout: ../../layouts/MarkdownLayout.astro
 title: Creación y envío de remesas por parte del rol Solicitante
 ---
 
@@ -22,41 +22,41 @@ title: Creación y envío de remesas por parte del rol Solicitante
 
 ## <a name="búsqueda-de-remesa"></a>Búsqueda de remesa
 
-Ingrese al __módulo de Archivo__ dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
+Ingrese al módulo de __Archivo__ dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
 
-![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
+![módulo archivo](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/01-modulo-remesas.png)
 
 Puede utilizar los campos como filtros para reducir el número de registros en el listado y así encontrar un registro con más facilidad.
 
-![Filtros listado remesas](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/03-filtros-remesas.png)
+![Filtros listado remesas](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/03-filtros-remesas.png)
 
 ## <a name="ingresar-al-detalle-de-una-remesa"></a>Ingresar al detalle de una remesa
 
-Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
+Ingrese al módulo de __Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
 
-![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
+![módulo archivo](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/01-modulo-remesas.png)
 
 Puede hacer una búsqueda para encontrar el registro indicado. [Búsqueda de solicitudes](#búsqueda-de-solicitudes).
 
 De clic sobre el campo: _ID_ para ir al detalle de una solicitud.
 
-![entrar en detalle de solicitud](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/05-entrar-detalle-remesa.png).
+![entrar en detalle de solicitud](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/05-entrar-detalle-remesa.png).
 
 Dentro del detalle podrá realizar más acciones, consultar la información de la solicitud y las bitácoras.
 
 ## <a name="nueva-remesa"></a>Nueva remesa
 
-Ingrese al __módulo de Archivo__ dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
+Ingrese al módulo de __Archivo__ dentro del menú general del lado izquierdo con el nombre Archivo. El segundo listado será el de _Remesas_.
 
-![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
+![módulo archivo](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/01-modulo-remesas.png)
 
 Localice al inicio de listado el botón __Nueva Remesa__.
 
-![Boton Nueva Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/02-boton-nueva-remesa.png)
+![Boton Nueva Remesa](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/02-boton-nueva-remesa.png)
 
 Al presionar sobre el botón ira a una nueva pantalla.
 
-![Nueva remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/04-nueva-remesa.png)
+![Nueva remesa](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/04-nueva-remesa.png)
 
 Llene los campos y presione sobre el botón __Crear__.
 
@@ -68,7 +68,7 @@ Entre en el detalle de la remesa en cuestión que se encuentre en estado de _Pen
 
 Presione el botón __Cancelar__.
 
-![Botón Cancelar](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/06-cancelar.png)
+![Botón Cancelar](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/06-cancelar.png)
 
 Acepte el mensaje de advertencia.
 
@@ -82,7 +82,7 @@ Presione el botón __Añadir a Remesa__.
 
 En la nueva ventana seleccione la remesa indicada.
 
-![Añadir Documento a Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/07-anadir-documento.png)
+![Añadir Documento a Remesa](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/07-anadir-documento.png)
 
 Llene los campos restantes y presione sobre el botón __Agregar Documento__.
 
@@ -92,7 +92,7 @@ Entre al detalle de una remesa que se encuentra en estado de _Pendiente_ y con u
 
 Presione sobre los botones de acción que se encuentran en el listado de documentos en la columna derecha del registro.
 
-![Acciones de Documentos anexos](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/09-acciones-documentos.png)
+![Acciones de Documentos anexos](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/09-acciones-documentos.png)
 
 ## <a name="imprimir-listado-de-documentos-anexos"></a>Imprimir listado de documentos anexos
 
@@ -100,11 +100,11 @@ Entre al detalle de una remesa que se encuentra en estado de _Pendiente_ y con u
 
 Al final de _listado de documentos_ presione el botón __Imprimir Listado__.
 
-![Imprimir listado de archivos anexos](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/10-boton-imprimir-listado.png)
+![Imprimir listado de archivos anexos](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/10-boton-imprimir-listado.png)
 
 Abrirá una nueva pantalla donde verá el listado de documentos anexos a la remesa.
 
-![Imprimir Listado](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/11-imprimir-listado.png)
+![Imprimir Listado](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/11-imprimir-listado.png)
 
 Presione el botón __imprimir__ situado en la parte superior derecha de su pantalla.
 
@@ -114,7 +114,7 @@ Entre al detalle de una remesa que se encuentra en estado de _Pendiente_ y con u
 
 Se habilitará el botón __Enviar__. Presione dicho botón cuando se encuentre listo para enviar a Archivo esta remesa.
 
-![Enviar Remesa](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/08-enviar.png)
+![Enviar Remesa](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/08-enviar.png)
 
 Acepte el mensaje de alerta.
 
@@ -126,16 +126,16 @@ Ingrese al detalle de una _remesa_ con estado de _Archivado_. [Ingresar al detal
 
 Ahora vera habilitado el botón __Pasar al Historial__. De clic en él.
 
-![Botón Pasar al Historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/12-boton-pasar-historial.png)
+![Botón Pasar al Historial](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/12-boton-pasar-historial.png)
 
 Esto hará que desaparezca de su listado de remesas, y pasará al listado de historial.
 
 ## <a name="consultar-el-historial"></a>Consultar el Historial
 
-Ingrese al __módulo de Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo.
+Ingrese al módulo de __Archivo__, dentro del menú general del lado izquierdo con el nombre Archivo.
 
-![módulo archivo](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/01-modulo-remesas.png)
+![módulo archivo](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/01-modulo-remesas.png)
 
 En la parte superior del lado derecho aparecerá el botón __Historial__. Presione el botón y accederá al historial.
 
-![historial](../../../assets/img/plataforma_web/archivo/solicitante-archivo-remesa/09-boton-historial.png)
+![historial](../../assets/img/plataforma_archivo_judicial_general/solicitante-archivo-remesas/09-boton-historial.png)
