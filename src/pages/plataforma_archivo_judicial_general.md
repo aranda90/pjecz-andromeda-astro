@@ -5,7 +5,7 @@ title: Plataforma Archivo Judicial General
 
 # Plataforma Archivo Judicial General
 
-Consulta de documentos y entrega de remesas al Archivo Judicial General.
+La Plataforma del Archivo Judicial General es el sistema que sirve para administrar la recepción y envío (en forma digital), el orden y la clasificación de los expedientes y documentos generados por los órganos judiciales.
 
 ## Procedimientos documentados por roles
 
