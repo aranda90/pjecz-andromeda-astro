@@ -18,10 +18,16 @@ yarn-error.log*
 .DS_Store
 
 # vscode settings and dictionaries
-.vscode
+.vscode/
 
 # webstorm settings and dictionaries
-.idea
+.idea/
 
 # package lock
 package-lock.json
+
+# astro
+.astro/
+
+# bash script
+.bashrc
