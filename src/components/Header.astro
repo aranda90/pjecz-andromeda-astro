@@ -1,74 +1,32 @@
 ---
-import Navigation from '../components/Navigation.astro'
-import { SkipLinks } from 'accessible-astro-components'
-import { Icon } from 'astro-icon/components'
+import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu } from "astro-navbar";
+import { Image } from 'astro:assets';
+import logo from "../assets/img/logo.svg";
 ---
 
-<header>
-  <SkipLinks />
-  <Navigation>
-    <li class="menu-item">
-      <a href="/privacy_policy">Aviso de Privacidad</a>
-    </li>
-    <li class="menu-item">
-      <a href="/service_terms">Políticas de Uso</a>
-    </li>
-    <li class="menu-item has-dropdown">
-      <button aria-haspopup="true" aria-expanded="false">Plataformas</button>
-      <ul class="dropdown-menu">
-        <li class="submenu-item">
-          <a href="https://plataforma-web.justiciadigital.gob.mx/" target="_blank">Plataforma Web</a>
+<header class="bg-gray-200 dark:bg-gray-900 text-gray-700 dark:text-gray-300 lg:flex p-4 md:p-8 lg:p-12 gap-5">
+  <Astronav>
+    <div class="flex items-center w-full justify-between font-medium">
+      <a href="/" class="flex items-center gap-2 !no-underline">
+        <Image src={logo} alt="PJECZ Justicia Digital" width="50" />
+        PJECZ Justicia Digital
+      </a>
+      <div class="block lg:hidden">
+        <MenuIcon class="w-4 h-4 text-gray-800 dark:text-gray-200" />
+      </div>
+    </div>
+    <MenuItems class="hidden lg:flex">
+      <ul class="flex flex-col lg:flex-row lg:gap-5">
+        <li>
+            <a href="/contact">Contacto</a>
         </li>
-        <li class="submenu-item">
-          <a href="https://archivo-judicial-general.justiciadigital.gob.mx/" target="_blank">Plataforma Archivo Judicial General</a>
+        <li>
+            <a href="/privacy_policy">Aviso de Privacidad</a>
         </li>
-        <li class="submenu-item">
-          <a href="https://orion.justiciadigital.gob.mx/" target="_blank">Plataforma Orión</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://notarias.justiciadigital.gob.mx/" target="_blank">Portal de Notarías</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://citas.justiciadigital.gob.mx/" target="_blank">Sistema de Citas</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://www.pjecz.gob.mx/tramites-y-servicios/" target="_blank">Trámites y Servicios</a>
+        <li>
+            <a href="/service_terms">Políticas de Uso</a>
         </li>
       </ul>
-    </li>
-    <li class="menu-item">
-      <a href="/contact">Contacto</a>
-    </li>
-    <li class="menu-item type-icon">
-      <a href="https://github.com/PJECZ" title="Go to the GitHub page">
-        <Icon name="ion:logo-github" />
-      </a>
-    </li>
-  </Navigation>
+    </MenuItems>
+  </Astronav>
 </header>
-
-<style lang="scss" is:global>
-  @use '../assets/scss/base/outline' as *;
-
-  header {
-    .type-icon a {
-      display: block;
-
-      [data-icon] {
-        height: auto;
-        margin-top: -4px;
-        width: 30px;
-
-        path {
-          fill: var(--action-color);
-        }
-      }
-
-      &:hover {
-        [data-icon] path {
-          fill: var(--action-color-state);
-        }
-      }
-    }
-  }
-</style>

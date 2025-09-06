@@ -1,0 +1,19 @@
+{
+  "name": "pjecz-andromeda-astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.4",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.13",
+    "astro": "^5.13.5",
+    "astro-navbar": "^2.4.0",
+    "tailwindcss": "^4.1.13"
+  }
+}
