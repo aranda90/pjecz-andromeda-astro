@@ -28,13 +28,14 @@ Antes de poder agendar tu primera cita, necesitarás registrarte. Para crear tu 
 4. En algunos minutos, se enviará un mensaje vía correo electrónico para validar.
 5. Revisa tu correo electrónico (si no aparece en la bandeja de entrada, revisar también en spam o correo no deseado.), abre el mensaje y da clic en el vínculo para confirmar tu registro.
 
-IMAGEN CREAR CUENTA
+![Crear una cuenta nueva](../assets/img/sistema_citas/crear_cuenta.png)
 
 ### Validar cuenta
 
 Después de registrarte, recibirás un mensaje para validar tu cuenta. Al dar clic en el enlace se mostrará el siguiente formulario.
 
-IMAGEN VALIDAR CUENTA
+
+![Validar cuenta](../assets/img/sistema_citas/validar_cuenta.png)
 
 A continuación, da clic en **CREAR CONTRASEÑA**
 
@@ -46,7 +47,7 @@ Escribe una contraseña segura. Te recomendamos:
 - Combinar letras mayúsculas, minúsculas y números.
 - No usar datos fáciles de adivinar, como tu nombre o fecha de nacimiento.
 
-IMAGEN CREAR CONTRASEÑA
+![Crear contraseña](../assets/img/sistema_citas/crear_contraseña.png)
 
 Da clic en **CREAR CONTRASEÑA**
 
@@ -54,36 +55,39 @@ Da clic en **CREAR CONTRASEÑA**
 
 1. Entra al **Sistema de Citas.**
 2. Escribe tu dirección de correo electrónico y tu contraseña
-3. Da clic en **Iniciar sesión**
+3. Da clic en **INICIAR SESIÓN**
+
+![Inicio de sesión](../assets/img/sistema_citas/login.png)
 
 ## Recuperar contraseña
 
-Si olvidaste tu contraseña, no te preocupes:
+Si olvidaste tu contraseña, haz los siguiente:
 
-Haz clic en “¿Olvidaste tu contraseña?” en la pantalla de inicio de sesión.
+1. Haz clic en **¿Olvidaste tu contraseña?**.
+2. Escribe tu correo electrónico registrado.
+3. Revisa tu correo y sigue las instrucciones para crear una nueva contraseña.
 
-Escribe tu correo electrónico registrado.
 
-Revisa tu correo y sigue las instrucciones para crear una nueva contraseña.
+![Recuperar contraseña](../assets/img/sistema_citas/recuperar_contraseña.png)
 
 ## Crear una cita
 
 1. Entra al **Sistema de Citas**
-2. Haz clic en **Nueva cita**
+2. Dar clic en **NUEVA CITA**
 3. De forma predetermina está fijo el Distrito Judicial. Elije la oficina correspondiente.
 4. Elije el servicio que requeieres.
 5. Escribe en Notas algo breve sobre el asunto o la palabra NINGUNA porque no puede quedar vacío.
 6. Elije la fecha y
 7. Elije la hora que tiene disponibilidad.
-8. Dar clic en **Agendar cita**
+8. Dar clic en **AGENDAR CITA**
 
-IMAGEN CREAR UNA CITA
+![Crear una cita](../assets/img/sistema_citas/nueva_cita.png)
 
-Tu cita quedará registrada y podrás ver el comprobante en la sección **Mis citas**, junto con tu código QR. Además recibirás un mensaje vía correo electrónico.
+Tu cita quedará registrada y podrás ver el comprobante en la sección **MIS CITAS**, junto con tu código QR. Además recibirás un mensaje vía correo electrónico.
 
 ## Consular las citas agendadas
 
-Da clic en **Mis citas**. Ahí encontrarás todas tus citas activas, con esta información.
+Da clic en **MIS CITAS**. Ahí encontrarás todas tus citas activas, con esta información.
 
 - Fecha y hora
 - Oficina
@@ -91,7 +95,7 @@ Da clic en **Mis citas**. Ahí encontrarás todas tus citas activas, con esta in
 - Notas
 - Código QR
 
-IMAGEN DE CITAS AGENDADAS
+![Citas agendadas](../assets/img/sistema_citas/citas_agendadas.png)
 
 ## Cancelar una cita
 
@@ -99,9 +103,10 @@ Si por algún motivo no puedes asistir, te agredeceremos mucho que canceles la c
 
 Pasos para cancelar una cita:
 
-1. Ingresar a **Mis citas** (por defecto se muestran tus citas agendadas).
+1. Ingresar a **MIS CITAS** (por defecto se muestran tus citas agendadas).
 2. Seleccione la cita correspondiente.
-3. Dar clic en el botón **Cancelar**.
-4. Confirmar la cancelación dando clic en el botón **Confirmar**.
+3. Dar clic en el botón **CANCELAR**.
+4. Confirmar la cancelación dando clic en el botón **CONFIRMAR**.
 
 IMAGEN CANCELAR LA CITA
+![Cancelar cita](../assets/img/sistema_citas/confirmar_cancelacion.png)
