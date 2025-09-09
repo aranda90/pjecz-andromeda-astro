@@ -1,18 +1,20 @@
 ---
 import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu } from "astro-navbar";
 import { Image } from 'astro:assets';
-import logo from "../assets/img/logo.svg";
+import logoLight from "../assets/img/pjecz-escudo-negro.png";
+import logoDark from "../assets/img/pjecz-escudo-blanco.png";
 ---
 
-<header class="bg-gray-200 dark:bg-gray-900 text-gray-700 dark:text-gray-300 lg:flex p-4 md:p-8 lg:p-12 gap-5">
+<header class="lg:flex p-5 gap-5 bg-gray-200 dark:bg-gray-900 text-gray-700 dark:text-gray-300">
   <Astronav>
-    <div class="flex items-center w-full justify-between font-medium">
+    <div class="flex w-full justify-between font-medium">
       <a href="/" class="flex items-center gap-2 !no-underline">
-        <Image src={logo} alt="PJECZ Justicia Digital" width="50" />
-        PJECZ Justicia Digital
+        <Image class="block dark:hidden" src={logoLight} alt="PJECZ Justicia Digital" width="120" />
+        <Image class="hidden dark:block" src={logoDark} alt="PJECZ Justicia Digital" width="120" />
+        Poder Judicial del Estado de Coahuila de Zaragoza
       </a>
       <div class="block lg:hidden">
-        <MenuIcon class="w-4 h-4 text-gray-800 dark:text-gray-200" />
+        <MenuIcon class="w-4 h-4 text-gray-700 dark:text-gray-300" />
       </div>
     </div>
     <MenuItems class="hidden lg:flex">
