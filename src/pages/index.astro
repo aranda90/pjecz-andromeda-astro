@@ -1,11 +1,12 @@
 ---
+import BoxPlatform from "../components/BoxPlatform.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
 ---
 
 <DefaultLayout>
-  <section class="hero px-4 md:px-8 lg:px-12 mb-12" id="bienvenida">
+  <section class="hero bg-hero py-24 px-4 md:px-8 lg:px-12" id="bienvenida">
     <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Bienvenido</h1>
-    <div class="text-gray-500 dark:text-gray-400">
+    <div class="text-gray-500 dark:text-gray-300">
       <p>
         Los sistemas de información son fundamentales para gestionar datos, tomar
         decisiones estratégicas y mejorar la prestación de servicios públicos en
@@ -29,39 +30,44 @@ import DefaultLayout from "../layouts/DefaultLayout.astro";
       </div>
     </div>
   </section>
-  <section class="bg-gray-200 text-black dark:bg-gray-700 dark:text-gray-200 py-8 px-4 md:px-8 lg:px-12 mb-12" id="plataformas">
+  <section class="bg-gray-200 text-black dark:bg-gray-700 dark:text-gray-200 py-24 px-4 md:px-8 lg:px-12" id="plataformas">
     <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Plataformas</h1>
-    <!-- Create six boxes -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      <a href="/plataforma_web" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Plataforma Web</h2>
-        <p class="text-gray-600 dark:text-gray-400">Sistema web para administrar la información interna y externa. Por ejemplo, descargar recibos de nómina, crear tickets de soporte técnico y subir los documentos que se publican en el sitio web.</p>
-      </a>
-      <a href="/plataforma_archivo_judicial_general" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Plataforma del Archivo Judicial</h2>
-        <p class="text-gray-600 dark:text-gray-400">Consulta de documentos y entrega de remesas al Archivo Judicial General.</p>
-      </a>
-      <a href="https://www.pjecz.gob.mx/tramites-y-servicios/" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Trámites y Servicios</h2>
-        <p class="text-gray-600 dark:text-gray-400">Desde el sitio web, se puede elegir el trámite o servicio que desea realizar, obtener información detallada y realizar el pago requerido por banca electrónica.</p>
-      </a>
-      <a href="/plataforma_orion" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Plataforma Orión</h2>
-        <p class="text-gray-600 dark:text-gray-400">Administración de los expedientes del personal.</p>
-      </a>
-      <a href="/portal_notarias" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Portal de Notarías</h2>
-        <p class="text-gray-600 dark:text-gray-400">Facilitar a las notarías la publicación de Edictos en el sitio web del Poder Judicial del Estado de Coahuila de Zaragoza.</p>
-      </a>
-      <a href="/sistema_citas" class="bg-blue-200 dark:bg-blue-900 p-6 rounded-lg shadow hover:shadow-lg hover:bg-blue-300 dark:hover:bg-blue-800 transition">
-        <h2 class="text-xl font-semibold mb-2">Sistema de Citas</h2>
-        <p class="text-gray-600 dark:text-gray-400">Agendar citas en las oficinas y juzgados del Poder Judicial del Estado de Coahuila de Zaragoza. Debe contar con una dirección de correo electrónico.</p>
-      </a>
+      <BoxPlatform
+        title="Plataforma Web"
+        description="Gestión de la información interna y externa, como descargar recibos de nómina y crear tickets de soporte técnico."
+        url="/plataforma_web"
+      />
+      <BoxPlatform
+        title="Sistema de Citas"
+        description="Agendar citas en las oficinas y juzgados del Poder Judicial."
+        url="/sistema_citas"
+      />
+      <BoxPlatform
+        title="Portal de Notarías"
+        description="Gestión de la publicación de edictos, por parte de las Notarías, en el sitio web."
+        url="/portal_notarias"
+      />
+      <BoxPlatform
+      title="Trámites y Servicios"
+      description="Realizar el pago de los trámites y servicios por banca electrónica."
+      url="https://www.pjecz.gob.mx/tramites-y-servicios/"
+      />
+      <BoxPlatform
+        title="Plataforma del Archivo Judicial"
+        description="Consulta de documentos y entrega de remesas al Archivo Judicial General."
+        url="/plataforma_archivo_judicial_general"
+      />
+      <BoxPlatform
+        title="Plataforma Orión"
+        description="Administración de los expedientes del personal."
+        url="/plataforma_orion"
+      />
     </div>
   </section>
-  <section class="hero px-4 md:px-8 lg:px-12" id="datos">
+  <section class="hero py-24 px-4 md:px-8 lg:px-12" id="datos-abiertos">
     <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Datos Abiertos</h1>
-    <div class="text-gray-500 dark:text-gray-400">
+    <div class="text-gray-500 dark:text-gray-300">
       <p>
         El Poder Judicial del Estado de Coahuila de Zaragoza promueve la transparencia
         y el acceso a la información pública mediante la publicación de conjuntos
@@ -78,3 +84,4 @@ import DefaultLayout from "../layouts/DefaultLayout.astro";
     </div>
   </section>
 </DefaultLayout>
+

@@ -1,8 +1,5 @@
-
 /* Tailwind CSS */
 @import "tailwindcss";
-
-/* Typography */
 @plugin "@tailwindcss/typography";
 
 /* Global typography and color */
@@ -11,7 +8,7 @@ html {
   font-family: var(--font-family-default);
 }
 
-/* Global styles */
+/* Page full screen */
 html,body {
   margin: 0;
   padding: 0;
@@ -27,10 +24,6 @@ body {
     flex-shrink: 0;
   }
 }
-p {
-  line-height: 1.25;
-  margin-bottom: 1.3rem;
-}
 
 /* astro-navbar */
 .hidden {
@@ -41,3 +34,33 @@ p {
 .prose {
   max-width: none;
 }
+p {
+  line-height: 1.3rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Hero background image */
+.bg-hero {
+  background-image: url('/gemini-generated-image-mazo-de-juez-fondo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+/*
+.bg-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.5);
+  z-index: 0;
+}
+.bg-hero.dark::before,
+.dark .bg-hero::before {
+  background: rgba(0,0,0,0.6) !important;
+}
+.bg-hero > * {
+  position: relative;
+  z-index: 1;
+}
+*/

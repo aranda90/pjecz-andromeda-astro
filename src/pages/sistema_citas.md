@@ -9,6 +9,7 @@ El Sistema de Citas te permite agendar, consultar o cancelar tus citas de manera
 
 En esta nueva versión, al confirmar tu cita obtendrás un código QR, que deberás presentar el día de tu cita para ingresar a las instalaciones.
 
+
 ## Crear una cuenta nueva
 
 Antes de poder agendar tu primera cita, necesitarás registrarte. Para crear tu cuenta, ten a la mano los siguientes datos:
@@ -20,6 +21,7 @@ Antes de poder agendar tu primera cita, necesitarás registrarte. Para crear tu 
 
 **Nota:** Si ya existe una cuenta con tu dirección de correo electrónico o con el CURP, no se puede crear otra cuenta con los mismos. En ese caso ve a la sección **Recuperar contraseña**.
 
+
 ### Pasos para registrarse
 
 1. Entra al **Sistema de Citas.**
@@ -30,14 +32,15 @@ Antes de poder agendar tu primera cita, necesitarás registrarte. Para crear tu 
 
 ![Crear una cuenta nueva](../assets/img/sistema_citas/crear_cuenta.png)
 
+
 ### Validar cuenta
 
 Después de registrarte, recibirás un mensaje para validar tu cuenta. Al dar clic en el enlace se mostrará el siguiente formulario.
 
-
 ![Validar cuenta](../assets/img/sistema_citas/validar_cuenta.png)
 
 A continuación, da clic en **CREAR CONTRASEÑA**
+
 
 ### Crear contraseña
 
@@ -47,9 +50,10 @@ Escribe una contraseña segura. Te recomendamos:
 - Combinar letras mayúsculas, minúsculas y números.
 - No usar datos fáciles de adivinar, como tu nombre o fecha de nacimiento.
 
-![Crear contraseña](../assets/img/sistema_citas/crear_contraseña.png)
+![Crear contraseña](../assets/img/sistema_citas/crear_contrasena.png)
 
 Da clic en **CREAR CONTRASEÑA**
+
 
 ## Inicio de sesión
 
@@ -59,6 +63,7 @@ Da clic en **CREAR CONTRASEÑA**
 
 ![Inicio de sesión](../assets/img/sistema_citas/login.png)
 
+
 ## Recuperar contraseña
 
 Si olvidaste tu contraseña, haz los siguiente:
@@ -67,8 +72,8 @@ Si olvidaste tu contraseña, haz los siguiente:
 2. Escribe tu correo electrónico registrado.
 3. Revisa tu correo y sigue las instrucciones para crear una nueva contraseña.
 
+![Recuperar contraseña](../assets/img/sistema_citas/recuperar_contrasena.png)
 
-![Recuperar contraseña](../assets/img/sistema_citas/recuperar_contraseña.png)
 
 ## Crear una cita
 
@@ -85,6 +90,7 @@ Si olvidaste tu contraseña, haz los siguiente:
 
 Tu cita quedará registrada y podrás ver el comprobante en la sección **MIS CITAS**, junto con tu código QR. Además recibirás un mensaje vía correo electrónico.
 
+
 ## Consular las citas agendadas
 
 Da clic en **MIS CITAS**. Ahí encontrarás todas tus citas activas, con esta información.
@@ -96,6 +102,7 @@ Da clic en **MIS CITAS**. Ahí encontrarás todas tus citas activas, con esta in
 - Código QR
 
 ![Citas agendadas](../assets/img/sistema_citas/citas_agendadas.png)
+
 
 ## Cancelar una cita
 
