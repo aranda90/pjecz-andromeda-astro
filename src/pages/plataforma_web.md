@@ -14,6 +14,7 @@ Para ingresar debe tener una cuenta de correo electónico de coahuila.gob.mx, pj
 - [Edictos](/plataforma_web/edictos)
 - [Exhortos](/plataforma_web/exhortos)
 - [Listas de Acuerdos](/plataforma_web/listas_de_acuerdos)
+- [Oficios](/plataforma_web/oficios)
 - [SICGD](/plataforma_web/sicgd)
 - [Tickets](/plataforma_web/tickets)
 - [V.P. de Sentencias](/plataforma_web/version_publica_sentencias)

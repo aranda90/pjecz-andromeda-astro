@@ -1,74 +1,34 @@
 ---
-import Navigation from '../components/Navigation.astro'
-import { SkipLinks } from 'accessible-astro-components'
-import { Icon } from 'astro-icon/components'
+import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu } from "astro-navbar";
+import { Image } from 'astro:assets';
+import logoLight from "../assets/img/pjecz-escudo-negro.png";
+import logoDark from "../assets/img/pjecz-escudo-blanco.png";
 ---
 
-<header>
-  <SkipLinks />
-  <Navigation>
-    <li class="menu-item">
-      <a href="/privacy_policy">Aviso de Privacidad</a>
-    </li>
-    <li class="menu-item">
-      <a href="/service_terms">Políticas de Uso</a>
-    </li>
-    <li class="menu-item has-dropdown">
-      <button aria-haspopup="true" aria-expanded="false">Plataformas</button>
-      <ul class="dropdown-menu">
-        <li class="submenu-item">
-          <a href="https://plataforma-web.justiciadigital.gob.mx/" target="_blank">Plataforma Web</a>
+<header class="lg:flex p-5 gap-5 bg-gray-200 dark:bg-gray-900 text-gray-700 dark:text-gray-300">
+  <Astronav>
+    <div class="flex w-full justify-between font-medium">
+      <a href="/" class="flex items-center gap-2 !no-underline">
+        <Image class="block dark:hidden" src={logoLight} alt="PJECZ Justicia Digital" width="120" />
+        <Image class="hidden dark:block" src={logoDark} alt="PJECZ Justicia Digital" width="120" />
+        Poder Judicial del Estado de Coahuila de Zaragoza
+      </a>
+      <div class="block lg:hidden">
+        <MenuIcon class="w-4 h-4 text-gray-700 dark:text-gray-300" />
+      </div>
+    </div>
+    <MenuItems class="hidden lg:flex">
+      <ul class="flex flex-col lg:flex-row lg:gap-5">
+        <li>
+            <a href="/contact">Contacto</a>
         </li>
-        <li class="submenu-item">
-          <a href="https://archivo-judicial-general.justiciadigital.gob.mx/" target="_blank">Plataforma Archivo Judicial General</a>
+        <li>
+            <a href="/privacy_policy">Aviso de Privacidad</a>
         </li>
-        <li class="submenu-item">
-          <a href="https://orion.justiciadigital.gob.mx/" target="_blank">Plataforma Orión</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://notarias.justiciadigital.gob.mx/" target="_blank">Portal de Notarías</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://citas.justiciadigital.gob.mx/" target="_blank">Sistema de Citas</a>
-        </li>
-        <li class="submenu-item">
-          <a href="https://www.pjecz.gob.mx/tramites-y-servicios/" target="_blank">Trámites y Servicios</a>
+        <li>
+            <a href="/service_terms">Políticas de Uso</a>
         </li>
       </ul>
-    </li>
-    <li class="menu-item">
-      <a href="/contact">Contacto</a>
-    </li>
-    <li class="menu-item type-icon">
-      <a href="https://github.com/PJECZ" title="Go to the GitHub page">
-        <Icon name="ion:logo-github" />
-      </a>
-    </li>
-  </Navigation>
+    </MenuItems>
+  </Astronav>
 </header>
-
-<style lang="scss" is:global>
-  @use '../assets/scss/base/outline' as *;
-
-  header {
-    .type-icon a {
-      display: block;
-
-      [data-icon] {
-        height: auto;
-        margin-top: -4px;
-        width: 30px;
-
-        path {
-          fill: var(--action-color);
-        }
-      }
-
-      &:hover {
-        [data-icon] path {
-          fill: var(--action-color-state);
-        }
-      }
-    }
-  }
-</style>

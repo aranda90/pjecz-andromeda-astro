@@ -1,0 +1,35 @@
+/* Tailwind CSS */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Global typography and color */
+html {
+  --font-family-default: 'Roboto', sans-serif;
+  font-family: var(--font-family-default);
+}
+
+/* Page full screen */
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  main {
+    flex: 1 0 auto;
+  }
+  footer {
+    flex-shrink: 0;
+  }
+}
+
+/* Overwrite Typography styles */
+.prose {
+  max-width: none;
+}
+p {
+  line-height: 1.3rem;
+  margin-bottom: 1.2rem;
+}

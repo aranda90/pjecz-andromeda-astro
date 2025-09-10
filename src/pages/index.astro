@@ -1,61 +1,91 @@
 ---
-import DefaultLayout from '../layouts/DefaultLayout.astro'
-import Hero from '../components/Hero.astro'
-import Feature from '../components/Feature.astro'
+import BoxPlatform from "../components/BoxPlatform.astro";
+import DefaultLayout from "../layouts/DefaultLayout.astro";
 ---
 
-<DefaultLayout title="PJECZ Justicia Digital">
-  <Hero />
-  <section class="my-12">
-    <div class="container">
-      <h2 class="mb-16 text-6xl">Plataformas</h2>
-      <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
-        <Feature icon="mdi:folder" title="Plataforma Web">
-          <p>
-            Descargar recibos de nómina, crear tickets de soporte técnico
-            y administrar los documentos que se publican en el sitio web.
-          </p>
-          <a class="button m-2" href="https://plataforma-web.justiciadigital.gob.mx/" target="_blank">Ir a Plataforma Web</a>
-          <a class="button m-2" href="/plataforma_web">Manuales</a>
-        </Feature>
-        <Feature icon="mdi:folder" title="Plataforma Archivo Judicial General">
-          <p>
-            Consulta de documentos y entrega de remesas al Archivo Judicial General.
-          </p>
-          <a class="button m-2" href="https://archivo-judicial-general.justiciadigital.gob.mx/" target="_blank">Ir a Plataforma Archivo Judicial General</a>
-          <a class="button m-2" href="/plataforma_archivo_judicial_general">Manuales</a>
-        </Feature>
-        <Feature icon="mdi:folder" title="Plataforma Orión">
-          <p>
-            Administración de los expedientes del personal.
-          </p>
-          <a class="button m-2" href="https://orion.justiciadigital.gob.mx/" target="_blank">Ir a Plataforma Orión</a>
-          <a class="button m-2" href="/plataforma_orion">Manuales</a>
-        </Feature>
-        <Feature icon="mdi:folder" title="Portal de Notarías">
-          <p>
-            Facilitar a las notarías la publicación de Edictos en el
-            sitio web del Poder Judicial del Estado de Coahuila de Zaragoza.
-          </p>
-          <a class="button m-2" href="https://notarias.justiciadigital.gob.mx/" target="_blank">Ir al Portal de Notarías</a>
-          <a class="button m-2" href="/portal_notarias">Manuales</a>
-        </Feature>
-        <Feature icon="mdi:folder" title="Sistema de Citas">
-          <p>
-            Agendar citas en las oficinas y juzgados del Poder Judicial del Estado de Coahuila de Zaragoza.
-            Debe contar con una dirección de correo electrónico.
-          </p>
-          <a class="button m-2" href="https://citas.justiciadigital.gob.mx/" target="_blank">Ir al Sistema de Citas</a>
-        </Feature>
-        <Feature icon="mdi:folder" title="Trámites y Servicios">
-          <p>
-            En este portal, integrado al sitio web,
-            puede elegir el trámite o servicio que desea realizar, obtener información detallada y
-            realizar el pago del mismo por banca electrónica.
-          </p>
-          <a class="button m-2" href="https://www.pjecz.gob.mx/tramites-y-servicios/" target="_blank">Ir a Trámites y Servicios</a>
-        </Feature>
+<DefaultLayout>
+  <section class="hero bg-[url(/fondo-mazo-de-juez-claro.jpg)] dark:bg-[url(/fondo-mazo-de-juez-oscuro.jpg)] bg-cover bg-center bg-no-repeat py-24 px-4 md:px-8 lg:px-12" id="bienvenida">
+    <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Bienvenido</h1>
+    <div class="text-gray-500 dark:text-gray-300">
+      <p>
+        Los sistemas de información son fundamentales para gestionar datos, tomar
+        decisiones estratégicas y mejorar la prestación de servicios públicos en
+        un mundo cada vez más digitalizado.
+      </p>
+      <p>
+        La impartición de justicia moderna requiere plataformas digitales
+        accesibles que permitan tanto a ciudadanos como funcionarios realizar
+        trámites, consultar y dar seguimiento a los procesos judiciales de manera
+        eficiente y transparente.
+      </p>
+      <p>
+        En el <strong class="text-gray-800 dark:text-white">Poder Judicial del Estado de Coahuila de Zaragoza</strong>
+        alentamos y promovemos la innovación. Gracias a las herramientas digitales
+        hoy la justicia es más accesible a la ciudadanía.
+      </p>
+      <h2 class="text-2xl font-bold">Acceso a las Plataformas</h2>
+      <div class="flex flex-col sm:flex-row gap-2 mt-4">
+        <a href="https://plataforma-web.justiciadigital.gob.mx/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Plataforma Web</a>
+        <a href="https://citas.justiciadigital.gob.mx/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Sistema de Citas</a>
+        <a href="https://notarias.justiciadigital.gob.mx/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Portal de Notarías</a>
+        <a href="https://www.pjecz.gob.mx/tramites-y-servicios/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Trámites y Servicios</a>
+        <a href="https://archivo-judicial-general.justiciadigital.gob.mx/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Plataforma del Archivo Judicial</a>
+        <a href="https://orion.justiciadigital.gob.mx/" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 transition">Plataforma Orión</a>
       </div>
     </div>
   </section>
+  <section class="bg-gray-200 text-black dark:bg-gray-700 dark:text-gray-200 py-24 px-4 md:px-8 lg:px-12" id="plataformas">
+    <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Documentación de las Plataformas</h1>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <BoxPlatform
+        title="Plataforma Web"
+        description="Gestión de la información interna y externa, como descargar recibos de nómina y crear tickets de soporte técnico."
+        url="/plataforma_web"
+      />
+      <BoxPlatform
+        title="Sistema de Citas"
+        description="Agendar citas en las oficinas y juzgados del Poder Judicial."
+        url="/sistema_citas"
+      />
+      <BoxPlatform
+        title="Portal de Notarías"
+        description="Gestión de la publicación de edictos, por parte de las Notarías, en el sitio web."
+        url="/portal_notarias"
+      />
+      <BoxPlatform
+      title="Trámites y Servicios"
+      description="Realizar el pago de los trámites y servicios por banca electrónica."
+      url="https://www.pjecz.gob.mx/tramites-y-servicios/"
+      />
+      <BoxPlatform
+        title="Plataforma del Archivo Judicial"
+        description="Consulta de documentos y entrega de remesas al Archivo Judicial General."
+        url="/plataforma_archivo_judicial_general"
+      />
+      <BoxPlatform
+        title="Plataforma Orión"
+        description="Administración de los expedientes del personal."
+        url="/plataforma_orion"
+      />
+    </div>
+  </section>
+  <section class="hero py-24 px-4 md:px-8 lg:px-12" id="datos-abiertos">
+    <h1 class="text-gray-900 dark:text-white text-3xl font-bold pt-0 mb-6">Datos Abiertos</h1>
+    <div class="text-gray-500 dark:text-gray-300">
+      <p>
+        El Poder Judicial del Estado de Coahuila de Zaragoza promueve la transparencia
+        y el acceso a la información pública mediante la publicación de conjuntos
+        de datos abiertos por medio de una API.
+      </p>
+      <p>
+        Estos datos abarcan diversas áreas, como edictos, listas de acuerdos, versión pública de las sentencias y
+        otros aspectos relevantes para la ciudadanía.
+      </p>
+      <p>
+        Al proporcionar estos datos, el Poder Judicial fomenta la participación ciudadana,
+        facilita la investigación y contribuye a una mayor rendición de cuentas.
+      </p>
+    </div>
+  </section>
 </DefaultLayout>
+
